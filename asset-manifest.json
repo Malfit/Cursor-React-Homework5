@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cursor-React-Homework5/static/css/main.3a6fdab1.chunk.css",
+    "main.js": "/Cursor-React-Homework5/static/js/main.17c036e8.chunk.js",
+    "main.js.map": "/Cursor-React-Homework5/static/js/main.17c036e8.chunk.js.map",
+    "runtime-main.js": "/Cursor-React-Homework5/static/js/runtime-main.01b393cc.js",
+    "runtime-main.js.map": "/Cursor-React-Homework5/static/js/runtime-main.01b393cc.js.map",
+    "static/js/2.9ee422a4.chunk.js": "/Cursor-React-Homework5/static/js/2.9ee422a4.chunk.js",
+    "static/js/2.9ee422a4.chunk.js.map": "/Cursor-React-Homework5/static/js/2.9ee422a4.chunk.js.map",
+    "index.html": "/Cursor-React-Homework5/index.html",
+    "precache-manifest.dcbebe0b6ae0af86d42ad47153f70285.js": "/Cursor-React-Homework5/precache-manifest.dcbebe0b6ae0af86d42ad47153f70285.js",
+    "service-worker.js": "/Cursor-React-Homework5/service-worker.js",
+    "static/css/main.3a6fdab1.chunk.css.map": "/Cursor-React-Homework5/static/css/main.3a6fdab1.chunk.css.map",
+    "static/js/2.9ee422a4.chunk.js.LICENSE.txt": "/Cursor-React-Homework5/static/js/2.9ee422a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01b393cc.js",
+    "static/js/2.9ee422a4.chunk.js",
+    "static/css/main.3a6fdab1.chunk.css",
+    "static/js/main.17c036e8.chunk.js"
+  ]
+}
